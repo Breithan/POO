@@ -1,0 +1,5 @@
+C:\Users\Dániel\Desktop\Toro José\Practica3\LibFiguraGeometrica\LibFiguraGeometrica\bin\Debug\LibFiguraGeometrica.dll
+C:\Users\Dániel\Desktop\Toro José\Practica3\LibFiguraGeometrica\LibFiguraGeometrica\bin\Debug\LibFiguraGeometrica.pdb
+C:\Users\Dániel\Desktop\Toro José\Practica3\LibFiguraGeometrica\LibFiguraGeometrica\obj\Debug\LibFiguraGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\Dániel\Desktop\Toro José\Practica3\LibFiguraGeometrica\LibFiguraGeometrica\obj\Debug\LibFiguraGeometrica.dll
+C:\Users\Dániel\Desktop\Toro José\Practica3\LibFiguraGeometrica\LibFiguraGeometrica\obj\Debug\LibFiguraGeometrica.pdb

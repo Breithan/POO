@@ -1,0 +1,7 @@
+C:\Users\Dániel\Desktop\Toro José\Taller1\LibConvTemp\LibConvTemp\LibConvTemp\bin\Debug\netstandard1.4\LibConvTemp.deps.json
+C:\Users\Dániel\Desktop\Toro José\Taller1\LibConvTemp\LibConvTemp\LibConvTemp\bin\Debug\netstandard1.4\LibConvTemp.dll
+C:\Users\Dániel\Desktop\Toro José\Taller1\LibConvTemp\LibConvTemp\LibConvTemp\bin\Debug\netstandard1.4\LibConvTemp.pdb
+C:\Users\Dániel\Desktop\Toro José\Taller1\LibConvTemp\LibConvTemp\LibConvTemp\obj\Debug\netstandard1.4\LibConvTemp.csproj.CoreCompileInputs.cache
+C:\Users\Dániel\Desktop\Toro José\Taller1\LibConvTemp\LibConvTemp\LibConvTemp\obj\Debug\netstandard1.4\LibConvTemp.AssemblyInfo.cs
+C:\Users\Dániel\Desktop\Toro José\Taller1\LibConvTemp\LibConvTemp\LibConvTemp\obj\Debug\netstandard1.4\LibConvTemp.dll
+C:\Users\Dániel\Desktop\Toro José\Taller1\LibConvTemp\LibConvTemp\LibConvTemp\obj\Debug\netstandard1.4\LibConvTemp.pdb

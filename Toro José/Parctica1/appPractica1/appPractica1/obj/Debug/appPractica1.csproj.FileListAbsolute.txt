@@ -1,0 +1,12 @@
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\bin\Debug\appPractica1.exe.config
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\bin\Debug\appPractica1.exe
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\bin\Debug\appPractica1.pdb
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\obj\Debug\appPractica1.csprojResolveAssemblyReference.cache
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\obj\Debug\appPractica1.frmLiquidacion.resources
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\obj\Debug\appPractica1.Properties.Resources.resources
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.GenerateResource.Cache
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.CoreCompileInputs.cache
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\obj\Debug\appPractica1.exe
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\obj\Debug\appPractica1.pdb
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\bin\Debug\LibDptoNomina.dll
+C:\Users\Dániel\Desktop\Toro José\Parctica1\appPractica1\appPractica1\bin\Debug\LibDptoNomina.pdb

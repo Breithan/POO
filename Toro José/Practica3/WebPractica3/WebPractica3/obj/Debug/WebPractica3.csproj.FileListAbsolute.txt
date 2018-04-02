@@ -1,0 +1,27 @@
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\bin\WebPractica3.dll.config
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\bin\WebPractica3.dll
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\bin\WebPractica3.pdb
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\bin\LibFiguraGeometrica.dll
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\bin\LibFiguras.dll
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\bin\LibFiguraGeometrica.pdb
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\bin\LibFiguras.pdb
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\obj\Debug\WebPractica3.csprojResolveAssemblyReference.cache
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\obj\Debug\WebPractica3.csproj.CoreCompileInputs.cache
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\obj\Debug\WebPractica3.dll
+D:\Universidad\Tercer Semestre\Programacion\Santa Juan - POO\Practica 3\WebPractica3\WebPractica3\obj\Debug\WebPractica3.pdb
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\bin\WebPractica3.dll.config
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\bin\WebPractica3.dll
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\bin\WebPractica3.pdb
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\bin\LibFiguraGeometrica.dll
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\bin\LibFiguras.dll
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\bin\LibFiguraGeometrica.pdb
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\bin\LibFiguras.pdb
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\obj\Debug\WebPractica3.csprojResolveAssemblyReference.cache
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\obj\Debug\WebPractica3.csproj.CoreCompileInputs.cache
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\obj\Debug\WebPractica3.csproj.CopyComplete
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\obj\Debug\WebPractica3.dll
+C:\Users\Dániel\Desktop\Toro José\Practica3\WebPractica3\WebPractica3\obj\Debug\WebPractica3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dániel\Desktop\Toro José\Parctica1\LibDptoNomina\LibDptoNomina\bin\Debug\netstandard1.4\LibDptoNomina.deps.json
+C:\Users\Dániel\Desktop\Toro José\Parctica1\LibDptoNomina\LibDptoNomina\bin\Debug\netstandard1.4\LibDptoNomina.dll
+C:\Users\Dániel\Desktop\Toro José\Parctica1\LibDptoNomina\LibDptoNomina\bin\Debug\netstandard1.4\LibDptoNomina.pdb
+C:\Users\Dániel\Desktop\Toro José\Parctica1\LibDptoNomina\LibDptoNomina\obj\Debug\netstandard1.4\LibDptoNomina.csproj.CoreCompileInputs.cache
+C:\Users\Dániel\Desktop\Toro José\Parctica1\LibDptoNomina\LibDptoNomina\obj\Debug\netstandard1.4\LibDptoNomina.AssemblyInfo.cs
+C:\Users\Dániel\Desktop\Toro José\Parctica1\LibDptoNomina\LibDptoNomina\obj\Debug\netstandard1.4\LibDptoNomina.dll
+C:\Users\Dániel\Desktop\Toro José\Parctica1\LibDptoNomina\LibDptoNomina\obj\Debug\netstandard1.4\LibDptoNomina.pdb
